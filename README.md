@@ -17,3 +17,5 @@
         </tr>
     </tbody>
 </table>
+
+![Alt text](https://github.com/sannlynnhtun-coding/Snakes/blob/main/SnakesMindMap.PNG)
