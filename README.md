@@ -24,4 +24,8 @@ Data များကို [Snakes.json](https://github.com/sannlynnhtun-coding/
     </tbody>
 </table>
 
+![Alt text](https://github.com/sannlynnhtun-coding/Snakes/blob/main/SnakesFlow1.jpg)
+
+![Alt text](https://github.com/sannlynnhtun-coding/Snakes/blob/main/SnakesFlow2.jpg)
+
 ![Alt text](https://github.com/sannlynnhtun-coding/Snakes/blob/main/SnakesMindMap.png)
