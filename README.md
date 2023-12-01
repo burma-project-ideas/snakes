@@ -2,10 +2,10 @@
 Summary
 >ကိုယ်သိချင်တဲ့မြွေကိုရွေးမယ်။ ကိုယ်ရွေးလိုက်တဲ့ မြွေရဲ့အကြောင်း၊ အဆိပ်ရှိမရှိ၊ အန္တရာယ်ရှိမရှိ စတဲ့အကြောင်းလေးတွေ ဖတ်ကြမယ်။
 
-1.သဘာဝတွင်တွေ့ရှိရသော မြွေများကို ပုံနှင့်တကွ ပြသထားပါသည်။
-2.မြွေပုံကိုနှိပ်၍ ထိုမြွေနှင့်ပတ်သက်သော အကြောင်းအရာ၊ အဆိပ်ရှိမရှိ၊ အန္တရာယ်ရှိမရှိ ကိုဖတ်ရှုနိုင်ပါသည်။
+1. သဘာဝတွင်တွေ့ရှိရသော မြွေများကို ပုံနှင့်တကွ ပြသထားပါသည်။
+2. မြွေပုံကိုနှိပ်၍ ထိုမြွေနှင့်ပတ်သက်သော အကြောင်းအရာ၊ အဆိပ်ရှိမရှိ၊ အန္တရာယ်ရှိမရှိ ကိုဖတ်ရှုနိုင်ပါသည်။
 
-Data များကို [Snakes.json](https://github.com/sannlynnhtun-coding/Snakes/blob/main/Snakes.json) နှင့် ပုံများကို [img Folder](https://github.com/sannlynnhtun-coding/Snakes/tree/main/img) တွင်ရရှိနိုင်ပါသည်။ ဤတွင်တစ်ခန်းရပ်ပါဦ
+Data များကို [Snakes.json](https://github.com/sannlynnhtun-coding/Snakes/blob/main/Snakes.json) နှင့် ပုံများကို [img Folder](https://github.com/sannlynnhtun-coding/Snakes/tree/main/img) တွင်ရရှိနိုင်ပါသည်။ ဤတွင်တစ်ခန်းရပ်ပါဦးမည်။
 <table>
  <thead>
   <tr>
