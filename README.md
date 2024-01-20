@@ -25,6 +25,9 @@ Data များကို [Snakes.json](https://github.com/sannlynnhtun-coding/
     </tbody>
 </table>
 
+## Participants
+[Phyo Zay Htike (React)](https://github.com/PhyoZayHtike/snake-website)
+
 ![Alt text](https://github.com/sannlynnhtun-coding/Snakes/blob/main/SnakesFlow1.jpg)
 
 ![Alt text](https://github.com/sannlynnhtun-coding/Snakes/blob/main/SnakesFlow2.jpg)
